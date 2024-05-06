@@ -32,12 +32,16 @@ body {
 .calculationSummaryDiv {
   height: 100%;
   width: 100%;
+  font-size: 2rem;
+  padding: 1rem;
 }
 
 #input-box {
   background-color: rgb(27, 27, 27);
   height: 4rem;
   width: 100%;
+  font-size: 2rem;
+  padding: 1rem;
 }
 
 .lower-section {
